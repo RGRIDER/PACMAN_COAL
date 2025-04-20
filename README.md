@@ -32,7 +32,7 @@ Navigate the maze, eat all the dots, avoid ghosts, collect fruits, and rack up p
 1. Make sure you have **MASM** and the **Irvine32 library** set up on your system.
 2. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/asm-pacman.git
+   git clone https://github.com/RGRIDER/asm-pacman.git
    ```
 3. Open the `.asm` file in your preferred IDE (e.g., Visual Studio with MASM support).
 4. Compile and run the project.
